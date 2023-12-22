@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub
+- Live Site URL:https://siddhantkhot.github.io/Blog-preview-card/
 
 ## My process
 
