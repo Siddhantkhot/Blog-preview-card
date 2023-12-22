@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL:https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub
-- Live Site URL:https://siddhantkhot.github.io/Blog-preview-card/
+- Solution URL:[Solution URL](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub)
+- Live Site URL:[Live Site URL](https://siddhantkhot.github.io/Blog-preview-card/)
 
 ## My process
 
