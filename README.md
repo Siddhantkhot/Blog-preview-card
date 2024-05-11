@@ -2,7 +2,7 @@
 
 ### Links
 
-- Solution URL:[Solution URL](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub)
+- Solution URL:[Solution URL](https://github.com/Siddhantkhot/Blog-preview-card/)
 - Live Site URL:[Live Site URL](https://siddhantkhot.github.io/Blog-preview-card/)
 
 ## My process
